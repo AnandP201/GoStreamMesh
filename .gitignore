@@ -1,3 +1,6 @@
 *.exe
-*.json
-go.sum
+.env
+.cache/
+bin/
+coverage.out
+dist/
